@@ -22,7 +22,7 @@ A secondary upload path-traversal was also investigated — the upload endpoint 
 | Repository | `socfortress/CoPilot` |
 | File | `backend/app/integrations/scoutsuite/routes/scoutsuite.py` |
 | Endpoint | `DELETE /api/scoutsuite/delete-report/{report_name}` |
-| Auth required | ❌ None |
+| Auth required | None |
 
 ---
 
